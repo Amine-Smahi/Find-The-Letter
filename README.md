@@ -36,3 +36,9 @@ Challenge yourself and try to find the mysterious letters to complete the words 
 #### Help Section
 
 ![image](https://cloud.githubusercontent.com/assets/17766221/25297511/2aa2b3fc-26e6-11e7-961b-651a8e82ba07.png)
+
+#### Special thanks To :
+
+[Oussama Bonnor](https://github.com/oussamabonnor1)
+
+[Amine Smahi](https://github.com/Amine-Smahi)
